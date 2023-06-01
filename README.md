@@ -1,4 +1,5 @@
-# dynamic_policy
+Online Appendix for *"Enforcement Policy in a Dynamic Theory of Deterrence"*
+============================================================================
 
 The simulator
 =============
